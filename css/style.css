@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;600&family=Delicious+Handrawn&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/cookies.css");
+@import url("components/navbar.css");
+
+h1{font-family: 'Delicious Handrawn', cursive;
+color: #69140E;}
+h2{font-family: 'Barlow Condensed', sans-serif;
+color: #C64831;}
+h3{font-family: 'Ubuntu', sans-serif;}
+.boldjaune{
+	color: #F2C378;	
+}
+body{
+	background-color: #F4E9E2;
+	font-family: 'Ubuntu', sans-serif;}
+
+a {text-decoration: none}

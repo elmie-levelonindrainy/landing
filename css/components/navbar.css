@@ -1,0 +1,29 @@
+.navbar{
+	overflow:hidden;
+	background-color: #F28F5B;
+	justify-content: space-between;
+  align-items: center;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	opacity: 100%;
+}
+
+.navbar h1{
+	font-size: 20px;
+	float: left;
+	margin-left: 10px;
+}
+
+.nav-links {
+  float: right;
+}
+
+.nav-links a {
+  margin-right: 10px;
+}
+
+h1 a{
+	vertical-align: center;
+}
+

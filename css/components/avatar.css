@@ -1,0 +1,18 @@
+.avatar {
+	width: 150px;
+	height: 150px;
+	border-radius: 70%;
+}
+.equipe{
+	background: white;
+	border: 10px black;
+	margin: 50px;
+	box-shadow: 30 15 px 35px #B7D3E2;
+	text-align: center;
+	border-color: #B7D3E2;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 10px 20px 50px #C64831;
+	width: 250px;
+	height: 550px
+	}
